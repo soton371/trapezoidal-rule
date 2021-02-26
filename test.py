@@ -17,7 +17,7 @@ for i in range(1, int(subInterval)):
     
 fx = (h/2)*(sum1 + 2*sum2)
 
-print("Your result is:{:.5f}".format(fx))
+print("Your result is: ".format(fx))
 
 
 
